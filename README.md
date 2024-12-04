@@ -2,15 +2,9 @@
 
 🔍 **Curioso** de carteirinha e apaixonado por resolver problemas! Estudante de **Engenharia de Computação** na **UEFS**, onde frequentemente mergulho em projetos com a metodologia **PBL** 📚💡. 
 
-💻 **Desenvolvedor** com uma queda especial por **Java** ☕ e **C** 🔧. Adoro explorar o mundo dos **FPGAs** e entender a fundo os sistemas onde a mágica acontece! ⚡
-
-🌟 **Amo Linux** 🐧 e estou sempre estudando mais sobre esse universo fascinante!
-
-📚 **Hobbies?** Futebol ⚽, games 🎮, livros 📖, e claro... um bom anime! 🎥
+💻 **Desenvolvedor** com uma queda especial por **Java** ☕ e **C** 🔧. 
 
 🚀 Atualmente focado em projetos desafiadores, sempre buscando expandir meu universo tecnológico.
-
-**Vamos codar, jogar, ou bater um papo sobre tecnologia?** 🚀😄
 
 ### 📊 **Estatísticas do GitHub:**
 <div>
