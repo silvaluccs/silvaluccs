@@ -1,10 +1,6 @@
 👋 **Olá! Eu sou o Lucas!**
 
-🔍 **Curioso** de carteirinha e apaixonado por resolver problemas! Estudante de **Engenharia de Computação** na **UEFS**, onde frequentemente mergulho em projetos com a metodologia **PBL** 📚💡. 
-
-💻 **Desenvolvedor** com uma queda especial por **Java** ☕ e **C** 🔧. 
-
-🚀 Atualmente focado em projetos desafiadores, sempre buscando expandir meu universo tecnológico.
+🔍 Estudante de **Engenharia de Computação** na **UEFS**📚💡. 
 
 ### 📊 **Estatísticas do GitHub:**
 <div>
